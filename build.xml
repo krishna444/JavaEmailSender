@@ -1,0 +1,8 @@
+<project default="compile">
+<target name="compile">
+    <mkdir dir="bin"/>	
+    <javac srcdir="src"
+           destdir="bin"
+           classpath="lib/javax.mail-1.5.5.jar:lib/javax.mail-api-1.5.5.jar:lib/jcommander-1.48.jar" />
+</target>
+</project>

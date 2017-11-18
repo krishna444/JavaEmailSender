@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="javax/" kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/javax.mail-api-1.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/javax.mail-1.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/jcommander-1.48.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
